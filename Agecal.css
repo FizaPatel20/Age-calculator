@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins',sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background: #3D8D7A;
+}
+.container{
+    width: 90%;
+    max-width: 600px;
+    background-color:#B3D8A8;
+    
+    margin: 100px auto 0;
+    padding: 30px;
+    border-radius: 10px;
+}
+h1{
+    color: #2C3930;
+}
+.cal input{
+    background-color: rgb(255, 255, 255);
+    width: 70%;
+    height: 40px;
+    margin-top: 30px;
+    margin: 20px auto 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.cal button{
+    background-color: #3D8D7A;
+    border-radius: 10px;
+    padding: 10px;
+}
+#result{
+    color: #2C3930;
+    font-size: 20px;
+    margin:20px auto 20px;
+}
+
